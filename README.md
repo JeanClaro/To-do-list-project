@@ -33,4 +33,4 @@ Em seguida, abra o arquivo index.html no seu navegador da web.
 ## Autor
 
 - GitHub: [@JeanClaro](https://github.com/JeanClaro)
-- LinkedIn: [Jean Claro](https://www.linkedin.com/in/jean-claro-4880551a4/)
+- LinkedIn: [Jean Claro](https://www.linkedin.com/in/jeanclaro/)
